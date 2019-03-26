@@ -16,6 +16,12 @@ Shilla Celinedion Swanapole
 
 ## Technologies used
 
+-Django
+
+-HTML/CSS
+
+-Bootstrap
+
 ## Prerequisites
 
 You need the following to work on the project:
