@@ -13,3 +13,5 @@ Shilla Celinedion Swanapole
 ## Known bugs
 
 ## Behavior Driven Development
+
+## Technologies used
