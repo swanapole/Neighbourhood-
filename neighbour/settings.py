@@ -44,6 +44,8 @@ DATABASES['default'].update(db_from_env)
 
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '831)ps4c$v6@#y09_0+vhdo1_-g#su4_@e-1%2v$ngkpciverx'
@@ -100,7 +102,14 @@ WSGI_APPLICATION = 'neighbour.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
-
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'hood',
+        'USER': 'moringa',
+    'PASSWORD':'celinedion',
+    }
+}
 
 
 # Password validation
@@ -155,6 +164,3 @@ EMAIL_HOST = config('EMAIL_HOST')
 EMAIL_PORT = config('EMAIL_PORT')
 EMAIL_HOST_USER = config('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD=config('EMAIL_HOST_PASSWORD')
-
-# Configure Django App for Heroku.
-django_heroku.settings(locals())
