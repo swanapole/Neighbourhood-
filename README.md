@@ -16,7 +16,7 @@ A web application that allows you to be in the loop about everything happening i
 
 To start using this project use the following commands:
 
-git clone https://github.com/MaryannGitonga/Neighborhood-App.git
+git clone https://github.com/swanapole/Neighborhood.git
 cd neighborhood-app
 atom .
 code . (this is if Visual Studio Code is your preferred text editor)
