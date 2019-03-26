@@ -8,7 +8,7 @@ Shilla Celinedion Swanapole
 
 ## description
 
-##Setup Requirements
+## Setup Requirements
 
 ## Known bugs
 
@@ -18,6 +18,6 @@ Shilla Celinedion Swanapole
 
 ## Prerequisites
 
-##Link to live website
+## Link to live website
 
-##Licence
+## Licence
