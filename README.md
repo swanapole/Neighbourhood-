@@ -18,6 +18,18 @@ Shilla Celinedion Swanapole
 
 ## Prerequisites
 
+You need the following to work on the project:
+
+-Python version 3.6
+
+-Django 1.11.
+
+-Pip
+
+-virtualenv
+
+-A text Editor
+
 ## Link to live website
 
 ## Licence
