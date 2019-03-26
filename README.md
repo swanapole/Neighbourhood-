@@ -40,6 +40,26 @@ The program should direct the user to their neighborhood page when logged in and
 
 Input Example: Log in
 
+Output Example: Redirected to their neighborhood page
+
+The program should direct the user to the index page with neighborhood listings when logged in and has no neighborhood:
+
+Input Example: Log in
+
+Output Example: Redirect the user to the index page with neighborhood listings
+
+The program should navigate to the profile page when the My Profile is clicked on the navigation bar:
+
+Input Example: Click on My Profile on the navigation bar
+
+Output Example: Redirected to the profile page
+
+The program should navigate to the admin dashboard when one logs in as an admin:
+
+Input Example: Login in as Admin
+
+Output Example: Navigate to the admin dashboard
+
 
 
 ## Technologies used
