@@ -18,6 +18,30 @@ Not identified any but the user is welcome to view and identify if any.
 
 ## Behavior Driven Development
 
+The program should navigate to the login page on load:
+
+Input Example: On page load
+
+Output Example: Navigate to the login page
+
+The program should navigate to sign up page when Sign Up is clicked on the login form:
+
+Input Example: Click on Sign Up on the login form
+
+Output Example: Redirected to the sign up page
+
+The program should navigate to the login page when Logout is clicked on the navigation bar:
+
+Input Example: Click on Logout on the navigation bar
+
+Output Example: Redirected to the login page
+
+The program should direct the user to their neighborhood page when logged in and already has a neighborhood:
+
+Input Example: Log in
+
+
+
 ## Technologies used
 
 -Django
