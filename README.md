@@ -16,14 +16,20 @@ A web application that allows you to be in the loop about everything happening i
 
 To start using this project use the following commands:
 
-git clone https://github.com/swanapole/Neighborhood.git
-cd neighborhood-app
-atom .
-code . (this is if Visual Studio Code is your preferred text editor)
+-git clone https://github.com/swanapole/Neighborhood.git
+
+-cd neighborhood-app
+
+-atom .
+
+-code . (this is if Visual Studio Code is your preferred text editor)
+
 To run this program
 
 run this command lines in your terminal:
-python manage.py runserver
+
+-python manage.py runserver
+
 access the application on this localhost address http://127.0.0.1:8000
 
 ## Known bugs
