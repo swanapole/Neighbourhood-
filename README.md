@@ -40,6 +40,13 @@ You need the following to work on the project:
 
 -A text Editor
 
+## Contacts
+
+-Contact me through my email: swanapoleshilla@gmail.com
+
+-The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered.
+
+
 ## Link to live website
 
 https://neigh2019.herokuapp.com/
