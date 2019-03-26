@@ -10,6 +10,18 @@ Shilla Celinedion Swanapole
 
 ## Setup Requirements
 
+To start using this project use the following commands:
+
+git clone https://github.com/MaryannGitonga/Neighborhood-App.git
+cd neighborhood-app
+atom .
+code . (this is if Visual Studio Code is your preferred text editor)
+To run this program
+
+run this command lines in your terminal:
+python manage.py runserver
+access the application on this localhost address http://127.0.0.1:8000
+
 ## Known bugs
 
 Not identified any but the user is welcome to view and identify if any.
